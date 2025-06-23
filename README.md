@@ -5,8 +5,7 @@ Welcome to the official landing page of **The Ledger Snapper (0xTURT_XRP∞13)**
 ---
 
 ## 🌐 Live Demo
-> [View the site] ()  
-
+> [View the site] (https://github.com/RafeBenson/ledger-snapper-site)  
 
 ---
 
